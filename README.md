@@ -59,7 +59,7 @@ Nous avons construit une interface de démonstration interactive avec **Gradio**
 | Catégorie | Technologie |
 | :--- | :--- |
 | **Framework** | Python, Conception de Framework d'Agents |
-| **Modèles IA** | Fine-tuned LLAMA 3 7B, RAG (Génération Augmentée par Récupération) |
+| **Modèles IA** | Fine-tuned LLAMA 3 7B (LoRA), RAG (Génération Augmentée par Récupération) |
 | **Cloud Computing** | Modal (Déploiement Serverless GPU) |
 | **Base de Données** | ChromaDB (Base de Données Vectorielles) |
 | **Interface** | (Dashboard Interactif) |
