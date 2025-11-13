@@ -1,6 +1,6 @@
 # YieldAgent : Framework d'Agents Autonomes pour l'Évaluation d'Actifs en Temps Réel
 
-![AI FOR FINTECH CHALLENGE](https://i.imgur.com/your-image-link.png) ** (Track 4 : IA en Trading et Investissement)**
+![AI FOR FINTECH CHALLENGE] ** (Track 4 : IA en Trading et Investissement)**
 
 ---
 
@@ -25,7 +25,7 @@ En fusionnant un modèle de langage affiné (Fine-tuned LLM LLAMA 3 7b) avec une
 
 Cette performance non seulement surpasse les modèles traditionnels et les experts humains, mais elle écrase également la performance de GPT-4 de plus de 38%.
 
-![Tableau de comparaison des performances](https://i.imgur.com/your-metrics-image-link.png) ---
+---
 
 ## Architecture Technique
 
@@ -67,7 +67,7 @@ Nous avons construit une interface de démonstration interactive avec **Gradio**
 
 ---
 
-## 🏁 Comment l'exécuter
+## Comment l'exécuter
 
 1.  **Installer les dépendances :**
     ```bash
