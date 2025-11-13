@@ -1,6 +1,6 @@
 # YieldAgent : Framework d'Agents Autonomes pour l'Évaluation d'Actifs en Temps Réel
 
-![AI FOR FINTECH CHALLENGE] ** (Track 4 : IA en Trading et Investissement)**
+** (Track 4 : IA en Trading et Investissement)**
 
 ---
 
@@ -52,7 +52,7 @@ Nous avons construit une interface de démonstration interactive avec **Gradio**
 * **Logs en temps réel :** Transparence totale sur ce que chaque agent "pense" en temps réel.
 * **Visualisation du Cerveau :** Un graphique 3D Plotly affichant la mémoire vectorielle (t-SNE) du système pendant qu'il organise sa connaissance du marché.
 
-![Image de l'interface Gradio](https://i.imgur.com/your-gradio-image-link.png) ---
+ ---
 
 ## Technologies Utilisées
 
